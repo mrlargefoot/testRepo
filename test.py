@@ -3,4 +3,6 @@ import csv
 
 text = 'hi'
 
-print(text)
+i = 2
+for x in i: 
+    x = print(text)
