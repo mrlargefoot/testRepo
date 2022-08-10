@@ -8,3 +8,5 @@ for x in i:
     x = print(text)
 
     asdf
+
+    asdfasdf
